@@ -92,7 +92,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 2021/08/14 11:58:22 Finished
 ===============================================================
 ```
-![](form_internal.png)
+![](assets/form_internal.png)
 # Task 4⇒ Compromise the webserver
 ![[burp_intercept.png]]
 ![[intruder.png]]
