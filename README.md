@@ -1,3 +1,3 @@
 Write-ups:
-[[Rooms/SQHell/Notes/Report]]
-[[Rooms/Vulneversity/Notes/Report]]
+1. [Vulneversity](Rooms/Vulneversity/Notes/Report)
+2. [SQHell](Rooms/SQHell/Notes/Report)
